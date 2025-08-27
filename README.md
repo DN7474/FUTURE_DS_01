@@ -2,28 +2,33 @@
 # 📊 Task(Superstore_Sales_Dashboard)_DS_1
 
 ## 📌 Overview
-This project showcases an interactive Power BI dashboard designed to analyze **sales performance across regions, product categories, and time periods**.  
-The dashboard highlights **key insights such as revenue trends, top-performing regions, and customer segments** to support data-driven decision-making.
+This project presents an **interactive Power BI dashboard** built on the **Superstore dataset**.  
+The dashboard provides insights into **total sales, profit, orders, category performance, top products, monthly sales trends, and sales distribution by region**.  
+
+It is designed to help decision-makers quickly analyze business performance and identify growth opportunities.
 
 ---
 
 ## 🛠️ Tools & Technologies
-- **Power BI** – Dashboard creation & visualization  
-- **Excel / SQL** – Data cleaning and preprocessing  
-- **Dataset** – (Update: specify source, e.g., Kaggle / dummy dataset / company dataset)  
+- **Power BI** – Data visualization & dashboard creation  
+- **Excel** – Data preprocessing  
+- **Superstore Dataset** – Sample dataset used for analysis  
 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/dashboard.png)  
-*(Replace with your actual screenshot, e.g., `![Dashboard](dashboard.png)`)*
-  
+![Dashboard Screenshot](Snapshort_Task(Superstore_Sales_Dashboard)_DS_1.png)  
+
 ---
 
 ## 📈 Key Insights
-- 📍 Region **X** had the highest sales growth.  
-- 📍 Category **Y** underperformed compared to others.  
-- 📍 Year-over-year revenue increased by **Z%**.  
+- 💰 **Total Sales:** 2.30M  
+- 📦 **Total Orders:** 5K  
+- 📊 **Total Profit:** 286.40K  
+- 🏆 **Top Product:** Canon imageCLASS Printer (61.6K sales)  
+- 🛋️ **Category Sales Distribution:** Technology (36.4%), Furniture (32.3%), Office Supplies (31.3%)  
+- 🌍 **Sales concentrated in the US Eastern and Western regions**  
+- 📅 **Strong upward trend in sales during October–December**  
 
 ---
 
