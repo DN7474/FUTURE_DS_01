@@ -9,21 +9,20 @@ It is designed to help decision-makers quickly analyze business performance and 
 
 ---
 
-## 📈 Key Insights
-- 💰 **Total Sales:** 2.30M  
-- 📦 **Total Orders:** 5K  
-- 📊 **Total Profit:** 286.40K  
-- 🏆 **Top Product:** Canon imageCLASS Printer (61.6K sales)  
-- 🛋️ **Category Sales Distribution:** Technology (36.4%), Furniture (32.3%), Office Supplies (31.3%)  
-- 🌍 **Sales concentrated in the US Eastern and Western regions**  
-- 📅 **Strong upward trend in sales during October–December**  
-
----
-
 ## 🛠️ Tools & Technologies
 - **Power BI** – Data visualization & dashboard creation  
 - **Excel** – Data preprocessing  
 - **Superstore Dataset** – Sample dataset used for analysis  
+
+---
+
+## ✨ Features
+- 📌 **KPI Cards** – Total Sales, Profit, and Orders at a glance  
+- 🗂️ **Category Analysis** – Sales breakdown by Category & Sub-Category  
+- 📊 **Top Products** – Highest selling products by revenue  
+- 🌍 **Regional Performance** – Sales & profit across regions and states  
+- 📅 **Time-Series Analysis** – Monthly/Yearly sales & profit trends  
+- 🎛️ **Interactive Filters** – Dynamic filtering by Region, Category, and Date  
 
 ---
 
