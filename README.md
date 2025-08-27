@@ -42,7 +42,7 @@ The dataset used for this dashboard is the **Superstore Dataset**, available on 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Snapshort_Task(Superstore_Sales_Dashboard)_DS_1.png)  
+![Dashboard Screenshot](https://github.com/DN7474/FUTURE_DS_01/blob/main/Task(Superstore_Sales_Dashboard)_DS_1.pbix)
 
 
 
