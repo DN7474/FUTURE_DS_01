@@ -9,18 +9,6 @@ It is designed to help decision-makers quickly analyze business performance and 
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Power BI** – Data visualization & dashboard creation  
-- **Excel** – Data preprocessing  
-- **Superstore Dataset** – Sample dataset used for analysis  
-
----
-
-## 📷 Dashboard Preview
-![Dashboard Screenshot](Snapshort_Task(Superstore_Sales_Dashboard)_DS_1.png)  
-
----
-
 ## 📈 Key Insights
 - 💰 **Total Sales:** 2.30M  
 - 📦 **Total Orders:** 5K  
@@ -32,7 +20,15 @@ It is designed to help decision-makers quickly analyze business performance and 
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+## 🛠️ Tools & Technologies
+- **Power BI** – Data visualization & dashboard creation  
+- **Excel** – Data preprocessing  
+- **Superstore Dataset** – Sample dataset used for analysis  
+
+---
+
+## 📷 Dashboard Preview
+![Dashboard Screenshot](Snapshort_Task(Superstore_Sales_Dashboard)_DS_1.png)  
+
+
+
