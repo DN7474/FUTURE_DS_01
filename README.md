@@ -1,6 +1,5 @@
-# FUTURE_DS_01
 
-# 📊 Sales Analysis Dashboard – Power BI Project
+# 📊 Task(Superstore_Sales_Dashboard)_DS_1
 
 ## 📌 Overview
 This project showcases an interactive Power BI dashboard designed to analyze **sales performance across regions, product categories, and time periods**.  
