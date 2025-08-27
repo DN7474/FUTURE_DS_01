@@ -27,6 +27,12 @@ It is designed to help decision-makers quickly analyze business performance and 
 
 ---
 
+## 📂 Data Source
+The dataset used for this dashboard is the **Superstore Dataset**, available on Kaggle:  
+🔗 [Superstore Dataset on Kaggle](https://www.kaggle.com/datasets/mohamed38/superstoredataset)
+
+---
+
 ## 📷 Dashboard Preview
 ![Dashboard Screenshot](Snapshort_Task(Superstore_Sales_Dashboard)_DS_1.png)  
 
